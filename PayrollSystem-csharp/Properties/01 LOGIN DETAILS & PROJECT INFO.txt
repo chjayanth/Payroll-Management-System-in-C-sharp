@@ -1,0 +1,11 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: payrolldbcsharp**
+
+**Developed by Daniel Mark**
+
+
+**Login Details**
+
+Username: admin
+Password: password123

@@ -1,0 +1,10 @@
+F:\codeastro\C#\payroll-system\obj\x64\Debug\PayrollSytem.csprojResolveAssemblyReference.cache
+F:\codeastro\C#\payroll-system\obj\x64\Debug\PayrollSytem.Form1.resources
+F:\codeastro\C#\payroll-system\obj\x64\Debug\PayrollSytem.frm_Employees.resources
+F:\codeastro\C#\payroll-system\obj\x64\Debug\PayrollSytem.frm_login.resources
+F:\codeastro\C#\payroll-system\obj\x64\Debug\PayrollSytem.frm_Payroll.resources
+F:\codeastro\C#\payroll-system\obj\x64\Debug\PayrollSytem.frm_reports.resources
+F:\codeastro\C#\payroll-system\obj\x64\Debug\PayrollSytem.frm_user.resources
+F:\codeastro\C#\payroll-system\obj\x64\Debug\PayrollSytem.Properties.Resources.resources
+F:\codeastro\C#\payroll-system\obj\x64\Debug\PayrollSytem.csproj.GenerateResource.Cache
+F:\codeastro\C#\payroll-system\obj\x64\Debug\PayrollSytem.csproj.CoreCompileInputs.cache
